@@ -36,12 +36,6 @@
 
 ###
 
-
-
-<img align="left" height="300" src="https://cdn.wikiwiki.jp/to/w/chunithmwiki/%E3%83%9F%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%9F%E3%82%AF%E3%83%A9%E3%83%BC%EF%BC%8F%E8%B1%8A%E7%A9%A3%E3%81%AE%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%B4%E3%82%A1%E3%81%A7/::attach/e47ec0d0f218748c.png?rev=930fc607093fb7f16bbf92fae5b70670&t=20221230230046"  />
-
-###
-
 <h3 align="right">About Me</h3>
 
 ###
